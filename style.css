@@ -13,3 +13,9 @@ h2{
     font-size: 40px;
     text-align: center;  
 }
+li:first-child{
+    background-color: red;
+    text-align: center;
+    color: wheat;
+    font-size: 60px;
+}
